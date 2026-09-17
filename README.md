@@ -97,12 +97,6 @@ Through this project, I learned the basics of:
 
 The main purpose of this project is to understand how Machine Learning can be integrated with a web application to analyze text and classify its sentiment.
 
-👨‍💻 Author
-Siddhant Maurya
-
-🎓 B.Tech Computer Science Engineering
-💻 Interested in Python, Machine Learning & Web Development
-
 ⭐ Support
 
 If you found this project useful or helpful:
@@ -124,3 +118,9 @@ Some possible improvements for this project:
 ☁️ Deploy the application online
 
 ⭐ Thank you for visiting this project! 🚀😊
+
+👨‍💻 Author
+Siddhant Maurya
+
+🎓 B.Tech Computer Science Engineering
+💻 Interested in Python, Machine Learning & Web Development
